@@ -1,0 +1,9 @@
+br\ifsp\edu\TechSolve\model\enumerations\ERole.class
+br\ifsp\edu\TechSolve\model\Ticket.class
+br\ifsp\edu\TechSolve\model\Role.class
+br\ifsp\edu\TechSolve\model\User.class
+br\ifsp\edu\TechSolve\config\OpenApiConfig.class
+br\ifsp\edu\TechSolve\model\enumerations\Priority.class
+br\ifsp\edu\TechSolve\model\enumerations\ETicketStatus.class
+br\ifsp\edu\TechSolve\model\enumerations\Department.class
+br\ifsp\edu\TechSolve\repository\UserRepository.class
